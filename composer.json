@@ -1,0 +1,19 @@
+{
+    "name": "krito/form-fv-main",
+    "description": "formulariophp_desarrrollowewb",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Krito\\FormFvMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jcaritog",
+            "email": "jcaritog1226@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
