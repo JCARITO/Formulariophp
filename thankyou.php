@@ -39,7 +39,7 @@ $connect = mysqli_connect(
         
         Gracias por confiar en CONSULTORA SAS. Su Solicitud ha sido recibida y se ha abierto un 
         ticket.
-        
+        <br>
         Que tenga un feliz dia
         
         </p>";
